@@ -1,0 +1,16 @@
+Para acessar as configurações JSON no Visual Studio Code, siga estas etapas simples:
+
+1-Abra o Visual Studio Code. Você será direcionado para a tela inicial ou para o editor, dependendo se já possui algum projeto aberto.
+
+2-No canto superior direito da janela, você verá uma série de ícones. Procure pelo ícone de engrenagem ou de uma chave inglesa. Este é o ícone das configurações. Clique nele para abrir o menu de configurações.
+
+3-No menu de configurações, você verá várias opções. Procure por "Configurações" ou "Settings" e clique nesta opção. Isso abrirá uma nova aba ou janela com as configurações do VS Code.
+
+4-Na parte superior direita da aba ou janela de configurações, você verá um ícone de três pontos verticais. Clique nele e, em seguida, selecione "Abrir configurações JSON" ou "Open Settings (JSON)". Isso abrirá o arquivo settings.json no editor.
+
+5-Agora você está no arquivo settings.json, onde todas as configurações do VS Code são definidas em formato JSON. Aqui é onde você pode adicionar, modificar ou remover configurações de acordo com suas preferências.
+
+Espero que isso ajude você a encontrar e acessar facilmente as configurações JSON no Visual Studio Code!
+
+
+Quando chegar lá e só colar o meu codigo e veja a mudança
